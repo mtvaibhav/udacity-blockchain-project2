@@ -1,5 +1,7 @@
 ERC-721 Token Name: CryptoStar Token
+
 ERC-721 Token Symbol: STR
+
 Truffle and OpenZeppelin version: Truffle v5.0.2 (core: 5.0.2) | OpenZeppelin version 2.3.0
 
 
